@@ -1,5 +1,5 @@
-### Overview
-
+# Overview
+===========
 + Section A: Code Review
 
     + Option 3: Ruby Task
@@ -21,7 +21,7 @@
 + Section D:
 
     - Download Loom
-    - Record a selfie video to:
+    - Record a selfie [video](https://drive.google.com/file/d/1INfxHGN7MtpxaLGZDuf_HfEyO6reI8Od/view?usp=sharing) to:
         - Intro
         - Experience as a educator
         - Experience as a developer
