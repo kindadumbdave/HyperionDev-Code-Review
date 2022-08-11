@@ -1,3 +1,7 @@
+### Selfie Video 🤳🏾
+
+[video](https://drive.google.com/file/d/1INfxHGN7MtpxaLGZDuf_HfEyO6reI8Od/view?usp=sharing)
+
 ### Notes
 - Download Loom
 - Create Recording
