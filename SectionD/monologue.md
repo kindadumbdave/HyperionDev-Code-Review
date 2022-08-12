@@ -1,5 +1,6 @@
 ### Selfie Video 🤳🏾
 
+The Selfie video has been stored on Google Drive and is accessible to those with the link below:
 [video](https://drive.google.com/file/d/1INfxHGN7MtpxaLGZDuf_HfEyO6reI8Od/view?usp=sharing)
 
 ### Notes
